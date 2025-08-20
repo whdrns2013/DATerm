@@ -16,3 +16,8 @@ This template should help get you started developing with Tauri, React and Types
 pnpm install
 npm run tauri dev
 ```
+
+## 의견  
+
+- (wave)조 - 화면 컴포넌트 자유롭게 배치  
+- (wave)조 - 파일 바로 수정  
