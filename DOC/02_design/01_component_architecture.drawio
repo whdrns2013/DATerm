@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.4 Chrome/138.0.7204.97 Electron/37.2.1 Safari/537.36" version="28.0.4">
   <diagram name="Components" id="MQLZklIZZMq7llc1gagY">
-    <mxGraphModel dx="1148" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,13 +261,13 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J1sC5kWRdP0H1oGyTM4w-33" value="설정, 템플릿&lt;div&gt;형식 정의&lt;/div&gt;" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="J1sC5kWRdP0H1oGyTM4w-33" value="설정, 템플릿&lt;div&gt;구조&lt;/div&gt;" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1460" y="370" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="J1sC5kWRdP0H1oGyTM4w-34" value="설정, 템플릿&lt;div&gt;형식 검증&lt;/div&gt;" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="J1sC5kWRdP0H1oGyTM4w-34" value="설정, 템플릿&lt;div&gt;검증&lt;/div&gt;" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1460" y="430" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="J1sC5kWRdP0H1oGyTM4w-35" value="마이그레이션&lt;div&gt;(설정, 템플릿 자동 업데이트)&lt;/div&gt;" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="J1sC5kWRdP0H1oGyTM4w-35" value="구조&lt;div&gt;마이그레이션&lt;/div&gt;" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1460" y="490" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="J1sC5kWRdP0H1oGyTM4w-36" value="재연결/재시도" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -326,7 +326,7 @@
         <mxCell id="y9rzi_l-2-UH2jsATAne-1" value="Component Architecture (컴포넌트 아키텍처)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="121" y="40" width="420" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tQyJQ55ZaAux2S5Z8XJx-1" value="자격 증명" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQyJQ55ZaAux2S5Z8XJx-1" value="자격 증명" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="360" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
