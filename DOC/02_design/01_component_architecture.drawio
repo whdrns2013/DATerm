@@ -39,7 +39,7 @@
         <mxCell id="9NNrpIZ2RM2DyVKkmO5t-7" value="&lt;b&gt;Server&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Remote / Host)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="120" y="100" width="1280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9NNrpIZ2RM2DyVKkmO5t-10" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;UI / Presentation&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="9NNrpIZ2RM2DyVKkmO5t-10" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Presentation (UI)&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="121" y="800" width="980" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9NNrpIZ2RM2DyVKkmO5t-11" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="9NNrpIZ2RM2DyVKkmO5t-10" vertex="1">
